@@ -183,3 +183,9 @@ h1 {
     border-right-width: 1px;
     border-right-style: solid;
 }
+
+@media screen and (max-width: 640px) {
+    body {
+        background-color: black;
+    }
+}
